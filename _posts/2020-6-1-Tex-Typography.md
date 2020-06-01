@@ -1,4 +1,4 @@
-# TeX Typography
+<!-- # TeX Typography -->
 Some years ago I had to write my PhD thesis using a LaTeX template provided by the univeristy.  
 
 This document considers LaTeX, and in some parts XeTeX where it is clearly mentioned. 
